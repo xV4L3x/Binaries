@@ -1,5 +1,6 @@
 # Binaries
 List of useful binaries created for faster development and deployment
+(Note: all binaries are raw and not compiled, they include the interpreter path at the top so that you just need to move them in /usr/local/bin and remove the extesion )
 
 ## Docker interactions
 
